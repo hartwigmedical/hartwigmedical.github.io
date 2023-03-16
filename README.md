@@ -1,3 +1,1 @@
-# Hartwig Medical Foundation
-
-Landing page for HMF Tools
+Landing page for HMF Tools/Resources
