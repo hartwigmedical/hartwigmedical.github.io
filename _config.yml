@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 logo: /assets/img/hmf_logo.png
 title: Hartwig Medical Foundation
+show_downloads: true
