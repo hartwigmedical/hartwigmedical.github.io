@@ -1,4 +1,6 @@
+exclude: [""README.md", ".gitignore"]
+
 theme: jekyll-theme-minimal
 logo: /assets/img/hmf_logo.png
-title: Hartwig Medical Foundation
+title: HMF
 show_downloads: true
