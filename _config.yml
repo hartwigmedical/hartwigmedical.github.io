@@ -1,4 +1,4 @@
-exclude: [""README.md", ".gitignore"]
+exclude: ["README.md", ".gitignore"]
 
 theme: jekyll-theme-minimal
 logo: /assets/img/hmf_logo.png
